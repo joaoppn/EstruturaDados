@@ -1,18 +1,18 @@
-#Estrutura de Dados
+# Estrutura de Dados
 Repositório para guardar códigos feitos para aula de Estrutura de dados.
 
-##Prova 01
+## Prova 01
 
-###Questão 01
+### Questão 01
 Verifica se os parenteses, colchetes e chaves de uma expressão algébrica estão abertos e fechados corretamente.
 
-###Questão 02
+### Questão 02
 Criar sistema de estacionamento que registra quais carros estão estacionados e quantas vagas restam.
 
-###Questão 03
+### Questão 03
 **Não lembro ao certo a pergunta, mas algo haver com verificar se números são doubles e adicionar numa lista.
 
-##Lista 
+## Lista 
 
 1) Implemente uma função que retorna a altura de uma árvore binária.
 2) Implemente uma função que retorna a quantidade de nós de uma árvore binária.
