@@ -1,0 +1,11 @@
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.csproj.AssemblyReference.cache
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.csproj.SuggestedBindingRedirects.cache
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.Form1.resources
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.Properties.Resources.resources
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.csproj.GenerateResource.cache
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.csproj.CoreCompileInputs.cache
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\bin\Debug\questao02.exe.config
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\bin\Debug\questao02.exe
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\bin\Debug\questao02.pdb
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.exe
+C:\Users\jppn4\Documents\GIT\prova01-ED\questao02\questao02\obj\Debug\questao02.pdb

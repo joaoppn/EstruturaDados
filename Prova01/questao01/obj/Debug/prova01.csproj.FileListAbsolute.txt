@@ -1,0 +1,11 @@
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.csproj.AssemblyReference.cache
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.Form1.resources
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.Properties.Resources.resources
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.csproj.GenerateResource.cache
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.csproj.CoreCompileInputs.cache
+D:\Documents\Estrutura de dados\prova01\bin\Debug\prova01.exe.config
+D:\Documents\Estrutura de dados\prova01\bin\Debug\prova01.exe
+D:\Documents\Estrutura de dados\prova01\bin\Debug\prova01.pdb
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.exe
+D:\Documents\Estrutura de dados\prova01\obj\Debug\prova01.pdb
